@@ -1,5 +1,5 @@
 # Importing the libraries
-# edited from GITHUB DESKTOP
+# edited from GITHUB DESKTOP PART 1
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
